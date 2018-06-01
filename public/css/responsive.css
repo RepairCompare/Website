@@ -1,0 +1,286 @@
+
+@media (max-width:1199px){
+#slider_section2 {
+	padding: 60px 0;
+}
+
+}
+
+
+
+
+
+
+
+@media (max-width:991px){
+#main-header .navbar-light .navbar-toggler {
+	border-color: transparent;
+	padding: 0;
+}
+#main-header .navbar-nav li {
+	border-left: transparent;
+	line-height: 30px;
+}
+#main-header .navbar-nav li a {
+	display: inline-block;
+	background-color: #ff9933;
+	width: 100%;
+	color: #fff;
+	padding: 5px 10px;
+	font-size: 13px;
+	margin-bottom: 1px;
+}
+#main-header .navbar-nav li a:hover{background-color:#666;}
+.navbar-light .navbar-toggler{outline:none;}
+#main-header .navbar {
+	padding: .5rem 0;
+}
+#main-header {
+	padding: 10px 0;
+}
+.navbar-nav{margin-top:15px;}
+.container-custom1 {
+	width: auto;
+}
+.section_area_time h1 {
+	font-size: 24px;
+	padding: 13px 0;
+	text-align:right;
+}
+
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+.imageswp li {
+	width: 100%;
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 15px;
+}
+.main-div {
+	padding-left: 93px;
+	padding-right: 83px;
+}
+#tab-section-t .nav-item {
+	padding: 0 5px;
+}
+.contant-Area {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+}
+
+
+
+
+@media (max-width:767px){
+.section_area.center h1 {
+	font-size: 22px;
+}
+.container-custom1 {
+	width: auto;
+}
+.section_area_time h1 {
+	font-size: 20px;
+	padding: 20px 11px;
+	text-align: right;
+}
+#tabs {
+	padding: 30px 0;
+}
+#slider_section .carousel-indicators li{width:100%;}
+.main-div {
+	max-width: 325px;
+	margin: auto;
+}
+#are-you-a-repairer .areyou {
+	text-align: center !important;
+	padding-bottom: 23px;
+}
+#footer-information {
+	padding: 25px 0;
+}
+.wight p {
+	padding-bottom: 35px;
+}
+.wight2 {
+	float: none;
+}
+#are-you-a-repairer {
+	padding: 30px 0;
+}
+.Send .btn-outline-dark {
+	width: 100%;
+	padding:16px 2px;
+}
+
+#popup-styling {
+	max-width: auto;
+}
+.area1.area12 li {
+	width: 100%;
+	padding: 0 57px;
+}
+.About-imgi-wp{display:none;}
+.carousel-control-next, .carousel-control-prev {
+	top: 48px;
+}
+.information2 {
+	background-image: none;
+}
+.information {
+	background-image: none;
+}
+.d-n{display:block;}
+.s-m-n{display:none;}
+.d-n img {
+	float: left;
+	max-width: 98px;
+	margin-right: 15px;
+	margin-top: 30px;
+}
+.main-div {
+	padding-top: 44px;
+}
+.follow {
+	margin-bottom: 35px;
+}
+.brand-item {
+	padding-top: 35px;
+}
+#brand {
+	padding: 25px 0 50px;
+}
+
+
+
+.section_area_time > h1 {
+	display: block;
+	margin-left: auto;
+	width: 215px;
+	padding: 5px 11px 15px 95px;
+	text-align: left;
+}
+.section_area_time > h1 > br {
+	display: none;
+}
+.sub_box p {
+	font-size: 12px;
+}
+.slider-information.mb-blockList > li {
+	display: block;
+	width: 100%;
+}
+.area1 {
+	padding-top: 15px;
+}
+
+
+
+}
+
+
+@media screen and (max-width:575px) {
+	.services img {
+		padding: 20px 10px 20px;
+		max-width: 100%;
+		width: 95px;
+	}
+	.slider-information.fSlide li {
+		margin: 15px auto;
+	}
+	.brand-item p {
+		font-size: 14px;
+	}
+	.sub_box h3 {
+		font-size: 14px;
+	}
+	.sub_box {
+		padding: 0 0px 10px;
+	}
+	.sub_box p {
+		font-size: 11px;
+	}
+	#msform {
+		padding: 0 10px;
+	}
+	.contant-Area {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+}
+
+
+
+@media (max-width:479px){
+#main-header .logo {
+	max-width: 208px;
+}
+#main-header .navbar-light .navbar-toggler {
+	border-color: transparent;
+	padding: 0;
+}
+#main-header .navbar-nav li {
+	border-left: transparent;
+	line-height: 30px;
+}
+
+.imageswp img {
+	margin: auto;
+	display: table;
+	max-width:100%;
+}
+.area1 img {
+	width: 70%;
+}
+.contant-Area {
+	padding-left: 66px;
+	padding-right: 52px;
+	margin-top: 31px;
+}
+.About-wp h1 {
+	color: #ff9933;
+	font-size: 39px;
+	font-weight: bold;
+}
+.compare {
+	font-size: 16px;
+}
+
+#form .form-control {
+	font-size: 12px;
+}
+.area1.area12 li {
+	padding: 0 0;
+}
+.area1 p {
+	font-size: 14px;
+}
+.area1 h3 {
+	font-size: 15px;
+}
+.information h5 {
+	font-size: 13px;
+}
+.section-title span {
+	font-size: 28px;
+}
+.description_block_area h3 {
+	font-size: 19px;
+}
+.get-quotes .btn-outline-dark {
+	padding: 16px 58px;
+}
+
+
+
+}

@@ -1,0 +1,18 @@
+extends layout
+
+block content
+	#wrapper-main-home
+		include components/masterTopMenu.html
+
+		include components/homeGetStarted.html
+		include components/homeThreeClicks.html
+		include components/homeQuoteRegistration.html
+		include components/homeSliderServicesAreasAbout.html
+		include components/homeSliderFeedback.html
+		include components/homeCallOutMessages.html
+		include components/homeAreYouARepairer.html
+		
+		include components/masterFooterAndCopyright.html
+
+block javaScript
+	script(src='/js/pages/home.js' type='text/javascript')

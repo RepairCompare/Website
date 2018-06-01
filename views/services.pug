@@ -1,0 +1,14 @@
+extends layout
+
+block content
+	#wrapper-Services
+		include components/masterTopMenu.html
+
+		include components/servicesMainContent.html
+		include components/homeSliderFeedback.html
+		include components/homeCallOutMessages.html
+		include components/homeAreYouARepairer.html
+		include components/masterFooterAndCopyright.html
+
+block javaScript
+	script(src='/js/pages/services.js' type='text/javascript')
